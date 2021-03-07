@@ -5,7 +5,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Component;
 
 @SpringBootApplication
-@ComponentScan(basePackages = "com.example.simpleOAuth")
+@ComponentScan(basePackages = "com.example.simpleoauth")
 public class SpringProjectApplication {
 
     public static void main(String[] args) {
