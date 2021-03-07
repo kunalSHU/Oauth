@@ -1,4 +1,4 @@
-package com.example.simpleOAuth.controller;
+package com.example.simpleoauth.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
